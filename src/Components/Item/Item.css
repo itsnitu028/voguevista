@@ -1,10 +1,12 @@
 .item{
-    width:50%;
+    width:100%;
 }
 
 .item p{
     margin: 6px 0px;
-    /* font-size: 10px; */
+    font-size: 15px;
+    width: 100%;
+    text-align: left;
 }
 .item-prices{
     display: flex;
@@ -28,5 +30,5 @@
    transition: 0.6s;
 }
 .item img{
-   width: 90%;
+   width: 100%;
 }
