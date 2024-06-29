@@ -1,7 +1,9 @@
 .hero{
-    height: 100vh;
+    height: 450px;
     background: linear-gradient(180deg,skyblue 0 35%,#fde1ff 60% 80%,#e1ffea22 );
     display: flex;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .hero-left{
@@ -32,7 +34,7 @@
 }
 
 .hero-hand-icon img{
-    width: 105px;
+    width: 115px;
 }
 .hero-latest-btn{
     display: flex;
@@ -57,5 +59,5 @@
     justify-content: center;
 }
 .hero-right img{
-    height: 95%;
+    height: 100%;
 }
